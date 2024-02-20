@@ -1,7 +1,7 @@
 # Bienvenidos al taller de Python
 
 <p align="center">
-  <img width="1000" src="code-your-python-programs.png">
+  <img width="1000" src="img/code-your-python-programs.png">
   </p>
 
 ## En este taller vas a poder ver:
