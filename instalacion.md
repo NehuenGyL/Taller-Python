@@ -15,7 +15,7 @@ Para poder escribir código que pueda ser interpretado por un lenguaje de progra
 ## Visual Studio Code
 
 <p align="center">
-  <img width="500" src="img/opengraph-home.png">
+  <img width="800" src="img/opengraph-home.png">
   </p>
 
 Es un editor desarrollado por Microsoft.
