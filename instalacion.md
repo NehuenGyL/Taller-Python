@@ -151,8 +151,26 @@ Si accedemos a la pestaña de arriba que dice `repositorios` veremos una lista d
 
 Así se ve un repositorio. Arriba a la izquierda tenemos el `nombre de usuario/nombre del repo`.
 
-En el centro podemos ver todos los archivos que tiene dentro el repo. El botón verde que dice `Code` es importante, si clickeamos ahí vamos a poder obtener la url del repo, para así poder **_clonarlo_** (esto lo veremos más adelante).
+En el centro podemos ver todos los archivos que tiene dentro el repo. El botón verde que dice `Code` es importante, si clickeamos ahí vamos a poder obtener la url del repo, para así poder **_clonarlo_**.
 
-Arriba a la derecha encontramos tres botones. `Watch` nos permite seguir un repositorio, mientras que con `Star` podemos marcar como favorito un repo que nos guste. Por último tenemos `Fork`, este es **muy** importante, lo vamos a necesitar.
+En <[Taller-Python](https://github.com/NehuenGyL/Taller-Python/tree/main)>, navega a la página principal del repositorio Para clonar el repositorio mediante la línea de comandos con HTTPS pulsando copiar en el enlace.
+
+
+<p align="center">
+  <img width="1000" src="img/captura.png">
+  </p>
+
+
+Abra Git Bash.
+
+Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
+
+Escriba git clone y pegue la dirección URL que ha copiado antes.
+
+<p align="center">
+  <img width="1000" src="img/captura2.png">
+  </p>
+
+### Presionamos Enter
 
 Ya tenemos todo para empezar... Éxitos!!! 🍀
