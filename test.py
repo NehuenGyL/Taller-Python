@@ -44,6 +44,6 @@ if __name__ == '__main__':
     archivo_test.write(str(hc_tests) + ',' + str(hc_errores) + ',' + str(hc_ok) + '\n')
     archivo_test.close()
 
-    print('RESUMEN')
-    print('CORRECTOS:', str(hc_ok))
-    print('TOTAL ERRORES:', str(hc_errores))
+    print('Resumen')
+    print('Total Correctos:', str(hc_ok))
+    print('Total Errores:', str(hc_errores))
