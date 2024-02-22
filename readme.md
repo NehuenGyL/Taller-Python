@@ -43,6 +43,9 @@ Durante el taller, utilizamos varias herramientas para poner en práctica los co
 
 ¡Esperamos que este taller haya sido una experiencia enriquecedora para ti! Continúa practicando y explorando Python para desarrollar tus habilidades de programación.
 
+## Tarea
+aca deberia ir una explicacion de la tarea de nivel 2, de que tienen que pasar lo que hagan en el archivo examen.ipynb a prueba.py y luego ejecutar el tests.py
+
 ## Créditos
 Desarrollado por:
 
