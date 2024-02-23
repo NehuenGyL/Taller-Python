@@ -44,6 +44,19 @@ Durante el taller, utilizamos varias herramientas para poner en práctica los co
 ¡Esperamos que este taller haya sido una experiencia enriquecedora para ti! Continúa practicando y explorando Python para desarrollar tus habilidades de programación.
 
 ## Tarea
+Para reforzar y aplicar los conceptos aprendidos en el taller, hemos diseñado una serie de ejercicios divididos en 2 niveles. Estos ejercicios están diseñados para que puedas poner en práctica lo explicado durante la sesión y consolidar tu comprensión de Python.
+
+### Nivel 1: Ejercicios de Reforzamiento
+En este nivel, encontrarás ejercicios más simples que te permitirán repasar los conceptos básicos cubiertos en el taller. Utiliza la información proporcionada durante la sesión como referencia para completar estos ejercicios.
+
+### Nivel 2: Desafío
+El nivel 2 eleva un poco la dificultad para aquellos que buscan un reto adicional. Estos ejercicios son autoevaluativos, lo que significa que puedes verificar tus respuestas ejecutando un test que hemos preparado para ti.
+
+### Autoevaluación
+Para facilitar la autoevaluación, proporcionamos un tutorial detallado sobre cómo ejecutar el test y verificar tus soluciones. Este tutorial te guiará paso a paso para que puedas asegurarte de que estás en el camino correcto.
+
+¡Anímate a enfrentar estos desafíos y sigue aprendiendo! La práctica es esencial para fortalecer tus habilidades de programación en Python.
+
 aca deberia ir una explicacion de la tarea de nivel 2, de que tienen que pasar lo que hagan en el archivo examen.ipynb a prueba.py y luego ejecutar el tests.py
 
 ## Créditos
