@@ -103,16 +103,4 @@ class TestEjercicio06(unittest.TestCase):
 
 if __name__ == '__main__':
     resultado_test = unittest.main(argv=[''], verbosity=2, exit=False)
-
-    hc_tests = resultado_test.result.testsRun
-    hc_fallas = len(resultado_test.result.failures)
-    hc_errores = len(resultado_test.result.errors) + hc_fallas  # Sumar las fallas como errores
-    hc_ok = hc_tests - hc_errores
-
-    with open('resultado_test.csv', 'w') as archivo_test:
-        archivo_test.write('Total_Tests,Errores,Correctos\n')
-        archivo_test.write(f"{hc_tests},{hc_errores},{hc_ok}\n")
-
-    print('Resumen')
-    print('Total Correctos:', hc_ok)
-    print('Total Errores:', hc_errores)
+    
