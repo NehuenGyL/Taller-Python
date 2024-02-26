@@ -67,15 +67,22 @@ class TestEjercicio03(unittest.TestCase):
 
 class TestEjercicio04(unittest.TestCase):
     def test_funcion_04(self):
-        nombre_usuario = "Pepito"  # Nombre genérico para la prueba
-        expected_saludo = f"Hola, {nombre_usuario}, ¿cómo estás?"  # Modificado para usar el nombre genérico
+        nombre_usuario = "Pepito"
+        expected_saludo = f"Hola, {nombre_usuario}, ¿cómo estás?"
 
         with io.StringIO() as mock_stdout:
             sys.stdout = mock_stdout
             mensaje_saludo = pb.funcion_04(nombre_usuario)
             output = mock_stdout.getvalue().strip()
+
             # Verificar que el nombre del usuario esté en el saludo
             self.assertIn(nombre_usuario, mensaje_saludo)
+
+        # Restablecer el flujo de salida estándar
+        sys.stdout = sys.__stdout__
+
+        # Verificar que el saludo generado coincida con el esperado
+        self.assertEqual(expected_saludo, mensaje_saludo)
 
 
 class TestEjercicio05(unittest.TestCase):
@@ -113,6 +120,6 @@ if __name__ == '__main__':
         archivo_test.write('Total_Tests,Errores,Correctos\n')
         archivo_test.write(f"{hc_tests},{hc_errores},{hc_ok}\n")
 
-    print('Resumen')
-    print('Total Correctos:', hc_ok)
-    print('Total Errores:', hc_errores)
+        print('Resumen')
+        print('Total Correctos:', hc_ok)
+        print('Total Errores:', hc_errores)
