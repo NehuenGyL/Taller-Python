@@ -120,6 +120,6 @@ if __name__ == '__main__':
         archivo_test.write('Total_Tests,Errores,Correctos\n')
         archivo_test.write(f"{hc_tests},{hc_errores},{hc_ok}\n")
 
-        print('Resumen')
-        print('Total Correctos:', hc_ok)
-        print('Total Errores:', hc_errores)
+    print('Resumen')
+    print('Total Correctos:', hc_ok)
+    print('Total Errores:', hc_errores)
