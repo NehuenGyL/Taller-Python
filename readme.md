@@ -34,7 +34,7 @@ Las estructuras condicionales te permiten tomar decisiones en tu código. Aprend
 Descubre cómo realizar operaciones aritméticas y manipular datos entre variables para realizar cálculos y tareas específicas.
 
 #### 8. Operaciones relacionales y lógicas:
-Comprenderás cómo evaluar condiciones mediante operadores relacionales (como "==", "!=", "<", ">") y operadores lógicos (como "and", "or", "not").
+Comprenderás cómo evaluar condiciones mediante operadores relacionales (como "==", "!=", "<", ">") y operadores lógicos (como "and", "or").
 
 ## Herramientas Utilizados:
 Durante el taller, utilizamos varias herramientas para poner en práctica los conceptos aprendidos. Puedes encontrar las herramientas y como instalarlas aquí:
