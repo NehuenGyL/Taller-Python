@@ -53,6 +53,12 @@ El nivel 2 eleva un poco la dificultad para aquellos que buscan un reto adiciona
 ### Autoevaluación
 Para facilitar la autoevaluación, proporcionamos un tutorial detallado sobre cómo ejecutar el test y verificar tus soluciones. Este tutorial te guiará paso a paso para que puedas asegurarte de que estás en el camino correcto.
 
+1er paso: Pasar funciones
+Lo primero que debes hacer es pasar todas las funciones que hiciste del nivel 2 pasarlo dentro de las funciones que estan en el archivo 'prueba.py'. Recuerda guardar los cambios con 'ctrl' + 's'.
+
+
+2do paso: 
+
 ¡Anímate a enfrentar estos desafíos y sigue aprendiendo! La práctica es esencial para fortalecer tus habilidades de programación en Python.
 
 aca deberia ir una explicacion de la tarea de nivel 2, de que tienen que pasar lo que hagan en el archivo examen.ipynb a prueba.py y luego ejecutar el tests.py
