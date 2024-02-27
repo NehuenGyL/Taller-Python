@@ -5,8 +5,14 @@ import sys
 import unittest.mock
 
 class TestEjercicio01(unittest.TestCase):
-    def test_funcion_01(self):
-        # Caso de prueba 1: Suma de números positivos
+    def test_ejemplo(self):
+        saludo = 'hola'
+        resultado = pb.funcion_ejemplo(saludo)
+        resultado_esperado = 'hola'
+        self.assertEqual(resultado, resultado_esperado)
+
+    def test_funcion_ejemplo(self):
+        #Caso de prueba 1: Suma de números positivos
         num1_pos = 5
         num2_pos = 10
         resultado_pos = pb.funcion_01(num1_pos, num2_pos)
