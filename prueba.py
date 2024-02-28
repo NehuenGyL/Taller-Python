@@ -16,7 +16,7 @@ def funcion_03():
 
     return
 
-def funcion_04(nombre):
+def funcion_04():
 
     return
 
