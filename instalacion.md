@@ -3,7 +3,7 @@
 
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
-1. Editor de texto(Visual Studio Code)
+1. Editor de texto
 2. Git
 3. Github
 4. Python
