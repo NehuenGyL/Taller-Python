@@ -26,7 +26,7 @@ Para descargarlo, nos dirigimos al sitio oficial, en la sección Download y desc
 
 <https://code.visualstudio.com/download>
 
-#### otra opción seria desde el store de tu pc
+#### Otra opción seria desde el store de tu pc
 
 <p align="center">
   <img width="500" src="recursos/visual-studio-store.png">
