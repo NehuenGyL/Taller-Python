@@ -66,5 +66,5 @@ Desarrollado por:
 | Ariel Romero  | [LinkedIn](https://www.linkedin.com/in/ariel-w-romero/) |
 
 <p align="center">
-  <img width="1000" src="recursos/tilin.png">
+  <img width="1000" src="recursos/tilin.jpg">
   </p>
