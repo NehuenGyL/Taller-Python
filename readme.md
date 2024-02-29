@@ -73,7 +73,3 @@ Desarrollado por:
 |--------|-----------|
 | Nehuén González   | [LinkedIn](https://www.linkedin.com/in/nehuen-gonzalez/) |
 | Ariel Romero  | [LinkedIn](https://www.linkedin.com/in/ariel-w-romero/) |
-
-<p align="center">
-  <img width="550" src="recursos/tilin.jpg">
-  </p>
