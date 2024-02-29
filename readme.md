@@ -59,7 +59,7 @@ Aquí encontrarás ejercicios más sencillos que te permitirán repasar los conc
 ### Nivel 2: Desafío
 Para aquellos que buscan un reto adicional, el nivel 2 eleva un poco la dificultad. Estos ejercicios son autoevaluativos, lo que implica que puedes verificar tus respuestas ejecutando un test que hemos preparado para ti.
 
-#### Autoevaluación
+### Autoevaluación
 Para facilitar este proceso, te proporcionamos un tutorial detallado sobre cómo ejecutar el test y verificar tus soluciones. Este tutorial te guiará paso a paso, asegurándote de que estás en el camino correcto.
 
 ![Texto alternativo](recursos/video_readme.gif)
