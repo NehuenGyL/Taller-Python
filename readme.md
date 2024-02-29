@@ -39,7 +39,7 @@ Comprenderás cómo evaluar condiciones mediante operadores relacionales (como "
 ## Herramientas Utilizados:
 Durante el taller, utilizamos varias herramientas para poner en práctica los conceptos aprendidos. Puedes encontrar las herramientas y como instalarlas aquí:
 
-[Instalación de herramientas](instalacion.md)
+[Instalación de herramientas](recursos/instalacion.md)
 
 ## Tarea
 Con el objetivo de fortalecer y aplicar los conocimientos adquiridos durante el taller, te proponemos una serie de ejercicios distribuidos en dos niveles. Estas actividades están diseñadas para que puedas poner en práctica lo aprendido durante la sesión, consolidando así tu comprensión de Python.
