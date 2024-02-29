@@ -26,6 +26,7 @@ En Python, las variables pueden almacenar diferentes tipos de datos, como entero
 #### 5. Bucles:
 For: Itera sobre una secuencia de elementos.
 While: Ejecuta un bloque de código mientras se cumple una condición.
+Break y Continue: También explorarás las instrucciones "break" y "continue" para controlar el flujo de ejecución en bucles, permitiéndote salir prematuramente o saltar a la siguiente iteración según ciertas condiciones.
 
 #### 6. Condicionales:
 Las estructuras condicionales te permiten tomar decisiones en tu código. Aprenderás a utilizar declaraciones "if", "else" y "elif" para controlar el flujo de ejecución.
@@ -35,6 +36,9 @@ Descubre cómo realizar operaciones aritméticas y manipular datos entre variabl
 
 #### 8. Operaciones relacionales y lógicas:
 Comprenderás cómo evaluar condiciones mediante operadores relacionales (como "==", "!=", "<", ">") y operadores lógicos (como "and", "or").
+
+#### 9. Funciones:
+Además de comprender los conceptos fundamentales de Python, en este taller también explorarás el mundo de las funciones. Las funciones en Python te permiten organizar y reutilizar bloques de código, mejorando la modularidad y la legibilidad de tu programa. Aprenderás a definir funciones, pasar parámetros y retornar valores, lo que te permitirá escribir código más eficiente y estructurado.
 
 ## Herramientas Utilizados:
 Durante el taller, utilizamos varias herramientas para poner en práctica los conceptos aprendidos. Puedes encontrar las herramientas y como instalarlas aquí:
