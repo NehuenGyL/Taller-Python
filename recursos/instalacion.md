@@ -15,7 +15,7 @@ Para poder escribir código que pueda ser interpretado por un lenguaje de progra
 ## Visual Studio Code
 
 <p align="center">
-  <img width="800" src="recursos/opengraph-home.png">
+  <img width="800" src="opengraph-home.png">
   </p>
 
 Es un editor desarrollado por Microsoft.
@@ -29,7 +29,7 @@ Para descargarlo, nos dirigimos al sitio oficial, en la sección Download y desc
 #### Otra opción seria desde el store de tu pc
 
 <p align="center">
-  <img width="500" src="recursos/visual-studio-store.png">
+  <img width="500" src="visual-studio-store.png">
   </p>
 
 Una vez finalizada la descarga, procedemos a ejecutar el instalador.
@@ -61,19 +61,19 @@ Ver estos enlaces:
 Ingreso a <https://git-scm.com> y descarga la última versión.
 
 <p align="center">
-  <img width="500" src="recursos/git_install.png">
+  <img width="500" src="git_install.png">
   </p>
 
 ### Una vez descargado, se abre el archivo .exe y van a visualizar la siguiente ventana
 
 <p align="center">
-  <img width="500" src="recursos/SETUP_GIT.png">
+  <img width="500" src="SETUP_GIT.png">
   </p>
 
 ### Clickeamos “Next” hasta que llegamos a esta parte:
 
 <p align="center">
-  <img width="500" src="recursos/SETUP2.png">
+  <img width="500" src="SETUP2.png">
   </p>
 
 ### En este momento de la instalación, si quieren, pueden elegir el editor de texto que van a usar. (Importante, ténganlo instalado antes de instalar Git)
@@ -81,25 +81,25 @@ Ingreso a <https://git-scm.com> y descarga la última versión.
 Seguimos clickeando “Next” y luego “Install”
 
 <p align="center">
-  <img width="500" src="recursos/SETUP3.png">
+  <img width="500" src="SETUP3.png">
   </p>
 
 ### Por último, ¡finalizar! Si seleccionan la opción "Launch Git Bash", una vez que finalizan la instalación se va a abrir la consola
 
 <p align="center">
-  <img width="500" src="recursos/SETUP4.png">
+  <img width="500" src="SETUP4.png">
   </p>
 
 ### Otra forma de abrir la consola es haciendo click derecho sobre el escritorio y elegir la opción "Git Bash Here"
 
 <p align="center">
-  <img width="500" src="recursos/consola.png">
+  <img width="500" src="consola.png">
   </p>
 
 ### Una vez instalado Git van a poder visualizar la consola: ingresamos el comando `git --version` para chequear que está instalado. Si ven la consola así, ya están listos para comenzar a trabajar!
 
 <p align="center">
-  <img width="500" src="recursos/git_consola.png">
+  <img width="500" src="git_consola.png">
   </p>
 
 ## GitHub
@@ -113,20 +113,20 @@ Es una red para almacenar tus repositorios, sería un repositorio de repositorio
 1. Para comenzar nos creamos una cuenta --- > <https://github.com> 🚀
 
 <p align="center">
-  <img width="500" src="recursos/github_register.png">
+  <img width="500" src="github_register.png">
   </p>
 
 2. Una vez registrados, ingresamos con usuario y contraseña:
 
 <p align="center">
-  <img width="500" src="recursos/github_login.png">
+  <img width="500" src="github_login.png">
   </p>
 
 
 3. Listo! Ahora vemos una página de inicio como la siguiente:
 
 <p align="center">
-  <img width="500" src="recursos/github_home.png">
+  <img width="500" src="github_home.png">
   </p>
 
 A la izquierda tenemos un acceso rápido a **mis repositorios**.
@@ -136,7 +136,7 @@ En el centro vemos la actividad de los usuarios a quienes seguimos.
 En la parte superior derecha, vemos nuestra imagen de perfil. Desde ahí podemos desplegar opciones para gestionar nuestro perfil, repositorios y configuración. Si accedemos a nuestro perfil encontramos algo parecido a esto:
 
 <p align="center">
-  <img width="500" src="recursos/github_profile.png">
+  <img width="500" src="github_profile.png">
   </p>
 
 Podemos poner una foto de perfil, editar el nombre, agregar la ubicación, link y organizaciones a las que pertenecemos. En el centro podemos fijar los repositorios que queremos mostrar para que estén visibles en nuestro perfil.
@@ -146,7 +146,7 @@ Más abajo se muestra un diagrama de todas las contribuciones que vamos haciendo
 Si accedemos a la pestaña de arriba que dice `repositorios` veremos una lista de todos ellos. Cuando elegimos un repositorio para ver, nos lleva a una página como esta:
 
 <p align="center">
-  <img width="500" src="recursos/github_repo.png">
+  <img width="500" src="github_repo.png">
   </p>
 
 Así se ve un repositorio. Arriba a la izquierda tenemos el `nombre de usuario/nombre del repo`.
@@ -157,7 +157,7 @@ En <[Taller-Python](https://github.com/NehuenGyL/Taller-Python/tree/main)>, nave
 
 
 <p align="center">
-  <img width="500" src="recursos/captura.png">
+  <img width="500" src="captura.png">
   </p>
 
 
@@ -168,7 +168,7 @@ Cambia el directorio de trabajo actual a la ubicación en donde quieres clonar e
 Escriba git clone y pegue la dirección URL que ha copiado antes.
 
 <p align="center">
-  <img width="500" src="recursos/captura2.png">
+  <img width="500" src="captura2.png">
   </p>
 
 ### Presionamos Enter
