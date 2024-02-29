@@ -41,6 +41,11 @@ Durante el taller, utilizamos varias herramientas para poner en práctica los co
 
 [Instalación de herramientas](recursos/instalacion.md)
 
+## Presentación
+También dejamos a su disposición la presentación mostrada durante el taller:
+
+[Link Presentación](https://www.canva.com/design/DAF8BflWqbc/QfZom2zeE2kzFL59hEOsPw/edit?utm_content=DAF8BflWqbc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Tarea
 Con el objetivo de fortalecer y aplicar los conocimientos adquiridos durante el taller, te proponemos una serie de ejercicios distribuidos en dos niveles. Estas actividades están diseñadas para que puedas poner en práctica lo aprendido durante la sesión, consolidando así tu comprensión de Python.
 
