@@ -34,7 +34,7 @@ Para descargarlo, nos dirigimos al sitio oficial, en la sección Download y desc
 
 Una vez finalizada la descarga, procedemos a ejecutar el instalador.
 
-### Luego de instalarlo les dejamos el siguiente video para que puedan instalar las dependencias que necesitan para el taller
+## Luego de instalarlo les dejamos el siguiente video para que puedan instalar las dependencias que necesitan para el taller
 
 <https://www.youtube.com/watch?v=xS5ZXOC4e6A>
 
