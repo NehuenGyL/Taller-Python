@@ -2,7 +2,7 @@
 def funcion_ejemplo(saludo):
     # Completa la función
 
-    return saludo 
+    return saludo
 
 def funcion_01():
 
